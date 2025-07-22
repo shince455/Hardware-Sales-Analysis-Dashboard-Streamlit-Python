@@ -4,11 +4,12 @@
 An attempt has been made to recreate the interactive **Sales Analysis Dashboard** originally built in **Power BI**—using Python and Streamlit, developing it into an interactive web-based application. It provides a comprehensive overview of sales performance across different regions, products, time periods and zones. The dashboard enables quick insights into revenue trends, top-performing categories, customer segmentation, and KPIs such as total sales, profit margins, and monthly growth.
 
 ##  Files Included
-- `Sales_Analysis.py` – Python sourse file
-- `Dashboard_Screenshot.png` – A preview of the dashboard
+- `Sreamlit_dashboard.py` – Python sourse file
+- `SalesDash1.png` – A preview of the dashboard
+- `SalesDash2.png` – Another preview of the dashboard
 ##  Key Features
 
-- Total Sales, Profit, and Units Sold by month and region
+- Total Sales, Profit, and Units Sold by year, month and region
 - Dynamic filtering by product category and customer segment
 - Year-over-Year comparison and percentage growth
 - Top 5 performing products and customers by revenue
