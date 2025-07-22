@@ -16,7 +16,7 @@ An attempt has been made to recreate the interactive **Sales Analysis Dashboard*
 - Monthly trend analysis using line chart
 
  ##  Dashboard_Screenshot
-<img width="800" alt="Dashboard" src="https://github.com/shince455/Hardware-Sales-Analysis-Dashboard-Streamlit-Python/commit/66cf3ed5ccd70418f96ab345c87751cab237163d" />
+<img width="800" alt="Dashboard" src="https://github.com/shince455/Hardware-Sales-Analysis-Dashboard-Streamlit-Python/blob/main/SalesDash1.png" />
 
 ## Key takeaways from the analysis:
 
